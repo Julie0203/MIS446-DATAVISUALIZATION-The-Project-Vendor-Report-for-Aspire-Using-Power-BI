@@ -33,6 +33,8 @@ Executive snapshot for situational awareness:
 - Supplier distribution charts (Tier, company size)
 - Map view for geographic distribution
 - Material/component breakdown for deeper review :contentReference[oaicite:6]{index=6}
+  
+<img width="826" height="463" alt="Screenshot 2025-12-28 at 12 52 01" src="https://github.com/user-attachments/assets/efb77579-e44b-4d5e-8062-5e7205fa77ef" />
 
 ### Page 2 — Vendor Comparison & Shortlisting
 Detailed evaluation and ranking:
@@ -40,12 +42,15 @@ Detailed evaluation and ranking:
 - KPI cards by criteria (Quality, Capacity, Support, Reputation)
 - Ranking tables: top performers by quality and total score
 - Slicers for **Company / Tier / Material components** :contentReference[oaicite:7]{index=7}
+<img width="827" height="463" alt="Screenshot 2025-12-28 at 12 52 21" src="https://github.com/user-attachments/assets/4ff00809-fae9-4c8f-80ad-87fa6fc01fc5" />
 
 ### Page 3 — Simulation / Risk (Strategic Sourcing)
 Decision-making + strategy testing:
 - Weight controls for **Quality, Reputation, Capacity, Support**
 - Scatter plot updates in real time to show recommended vendor group
 - Gauges/KPIs + recommendation panel for final suggested strategic partner :contentReference[oaicite:8]{index=8}
+
+<img width="791" height="439" alt="Screenshot 2025-12-28 at 12 52 33" src="https://github.com/user-attachments/assets/f67df6c2-686f-4cc4-ad6a-000d241797ec" />
 
 ## Data Preparation & Modeling (Power Query + Model)
 - Load from CSV and promote headers
